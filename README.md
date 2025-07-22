@@ -29,9 +29,8 @@ I'm a passionate Front-End Developer with a love for crafting beautiful, perform
 
 ## ✨ Featured Projects
 
-- [Netflix Clone](https://github.com/LeThiYenVi/netflix-clone): Responsive movie streaming UI with interactive features.
 - [KFC Food Ordering App](https://github.com/LeThiYenVi/KFC-Clone-Responsive-Food-Ordering): Modern, responsive online food ordering platform.
-- [Healthcare Service Management](https://github.com/LeThiYenVi/SWP391_FE): Web application for managing healthcare services.
+- [School_Medical_Management_System](https://github.com/lpaxxa/School_Medical_Management_System): Web application for managing healthcare services.
 
 ---
 
