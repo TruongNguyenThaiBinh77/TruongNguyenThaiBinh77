@@ -35,6 +35,14 @@ I'm a passionate Front-End Developer with a love for crafting beautiful, perform
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeThiYenVi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeThiYenVi&layout=compact&theme=radical)
+
+---
+github-readme-stats.vercel.app
+
 ## 📚 What I’m Currently Up To
 
 - 🚀 Sharpening my skills in React, TypeScript, and front-end best practices.
