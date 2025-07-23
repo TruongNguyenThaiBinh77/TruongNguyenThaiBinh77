@@ -24,6 +24,9 @@ I'm a passionate Front-End Developer with a love for crafting beautiful, perform
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
 
 ---
 
